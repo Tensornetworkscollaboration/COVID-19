@@ -11,7 +11,7 @@ Other approaches to treating the following tasks are also relevant!
 
 ### Tasks or questions:
 
-1.  Virus spread out vs climate diverse conditions of our country: 
+1.  The virus spread out vs. climate diversity conditions of our country: 
 2.  Vulnerable people facing the virus dissemination
-3.  Critical values for hospitalry capacity in our towns
-4.  Others tasks you consider important
+3.  Critical values for health system capacity in our towns
+4.  Others tasks you consider importantt
