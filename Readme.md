@@ -2,11 +2,11 @@
 
 It is time to do something significant for our country, for our world! We can apply our knowledge to the most practical current problem.
 
-No matter the time you are devoting to this repository, never let empty. Please, any information or datasets you find, bring them here.
+No matter the time you are devoting to this repository, never let it empty. Please, any information or datasets you find, bring them here.
 
 Machine learning is crucial for solving non-linear problems with many parameters and variables. We can use ML in answering some critical questions for our country, e.g., to determine the vulnerability or susceptibility of our people in the face of coronavirus spread out.
 
-Other approaches to treating the following tasks are also relevant!
+Other approaches or ideas to treating the following tasks are also relevant!
 
 
 ### Tasks or questions:
